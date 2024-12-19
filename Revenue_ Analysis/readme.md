@@ -2,20 +2,19 @@
 
 ## Project Overview:
 
-A tech company sought to increase its revenue by analyzing sales data for its salesreps between 2019 and 2020 across Asia,  UK, and USA. Despite targeting thousands of customers, only a small percentage made purchases of the specific product. The goal was to identify shortcomings in sales and marketing strategies, boost revenue, and drive sales growth. This would help the company enhance the efficiency of future campaigns and improve its overall conversion rate.
+A tech company sought to increase its revenue by analyzing sales data form its sales representatives between 2019 and 2020 across Asia,  UK, and USA. Despite targeting thousands of customers, only a small percentage made purchases of the specific product. The goal was to identify shortcomings in sales and marketing strategies, boost revenue, and drive sales growth. This would help the company enhance the efficiency of future campaigns and improve its overall conversion rate.
 
 ## Key Metrics:
-1) Total Customers: 39,188
-2) Total Positive Responses: 4,415 (11.27% success rate)
-3) Average Age of Customers: 40 years
-4) Average Number of Contacts: 2.57
+1) Sales Volume: 3,264
+2) Total Revenue: 127.41M
+3) Sum of revenue by products: a) Smartphone: 78.92M(61.94%), b) Assessories: 21.14M(16.59%), c) Laptops: 13.18M(10.34%), d) 14.18M(11.13%)
+5) Average Age: 34
    
 ## Tasks completed:
 Data ingestion, data processing/cleaning, visualizations and dashboarding.
 
 Final Dashboard: Bank Marketing Campaign dashboard
-![Bank Marketing Campaign dashboard](https://github.com/user-attachments/assets/8159bb14-8bb6-4d95-be2a-cf81968c5e40)
-
+<img width="540" alt="Screenshot 2024-12-19 110944" src="https://github.com/user-attachments/assets/deac5ccf-b8c6-454c-93a8-5eeacd8ba281" />
 
 The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
 
