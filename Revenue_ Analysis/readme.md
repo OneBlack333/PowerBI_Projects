@@ -8,10 +8,10 @@ A tech company sought to increase its revenue by analyzing sales data form its s
 1) Sales Volume: 3,264
 2) Total Revenue: 127.41M
 3) Sum of revenue by products:
-   a) Smartphone: 78.92M(61.94%),
-   b) Assessories: 21.14M(16.59%),
-   c) Laptops: 13.18M(10.34%),
-   d) 14.18M(11.13%)
+   - Smartphone: 78.92M(61.94%),
+   - Assessories: 21.14M(16.59%),
+   - Laptops: 13.18M(10.34%),
+   - Tablets: 14.18M(11.13%)
 4) Average Age: 34
    
 ## Tasks completed:
