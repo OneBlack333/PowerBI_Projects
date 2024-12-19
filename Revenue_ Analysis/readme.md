@@ -12,7 +12,7 @@ A tech company sought to increase its revenue by analyzing sales data form its s
    b) Assessories: 21.14M(16.59%),
    c) Laptops: 13.18M(10.34%),
    d) 14.18M(11.13%)
-8) Average Age: 34
+4) Average Age: 34
    
 ## Tasks completed:
 Data ingestion, data processing/cleaning, visualizations and dashboarding.
