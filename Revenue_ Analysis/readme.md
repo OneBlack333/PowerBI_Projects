@@ -7,13 +7,17 @@ A tech company sought to increase its revenue by analyzing sales data form its s
 ## Key Metrics:
 1) Sales Volume: 3,264
 2) Total Revenue: 127.41M
-3) Sum of revenue by products: a) Smartphone: 78.92M(61.94%), b) Assessories: 21.14M(16.59%), c) Laptops: 13.18M(10.34%), d) 14.18M(11.13%)
-5) Average Age: 34
+3) Sum of revenue by products:
+   a) Smartphone: 78.92M(61.94%),
+   b) Assessories: 21.14M(16.59%),
+   c) Laptops: 13.18M(10.34%),
+   d) 14.18M(11.13%)
+8) Average Age: 34
    
 ## Tasks completed:
 Data ingestion, data processing/cleaning, visualizations and dashboarding.
 
-Final Dashboard: Bank Marketing Campaign dashboard
+Final Dashboard:  Tech Company Revenue Analysis Dashboard
 <img width="540" alt="Screenshot 2024-12-19 110944" src="https://github.com/user-attachments/assets/deac5ccf-b8c6-454c-93a8-5eeacd8ba281" />
 
 The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
