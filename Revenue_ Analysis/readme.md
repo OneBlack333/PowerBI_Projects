@@ -8,11 +8,12 @@ A tech company sought to increase its revenue by analyzing sales data form its s
 1) Sales Volume: 3,264
 2) Total Revenue: 127.41M
 3) Sum of revenue by products:
-   - Smartphone: 78.92M(61.94%),
-   - Assessories: 21.14M(16.59%),
-   - Laptops: 13.18M(10.34%),
+   - Smartphone: 78.92M(61.94%)
+   - Assessories: 21.14M(16.59%)
    - Tablets: 14.18M(11.13%)
+   - Laptops: 13.18M(10.34%)
 4) Average Age: 34
+5) Region: Asia, UK, USA
    
 ## Tasks completed:
 Data ingestion, data processing/cleaning, visualizations and dashboarding.
@@ -23,14 +24,14 @@ Final Dashboard:  Tech Company Revenue Analysis Dashboard
 The dashboard provides a clear view of trends across different demographic groups, making the decision-making process data-driven and actionable.
 
 ## Key Insights:
-### 1) Job-based Success Rate:
-The highest success rate comes from students (31.4%) and retired individuals (24.7%).
-Blue-collar workers had the lowest success rate at 6.9%.
+### 1) Age-Based Sales: Sales performance analyzed by age group of the sales representatives:
+The sales for the 20-30 age group are lower due to less experience, while sales for the 30-40 and 40-50 age groups are higher because of greater experience and established client relationships.
 
-### 2) Campaign Timing:
-March (49.5%) and December (49.1%) recorded the highest success rates, suggesting these months are optimal for outreach.
-The lowest performance was seen in May (6.5%) and July (9%).
-Contact Method:
+### 2) Revenue by Product: Breakdown of revenue based on individual product categories.
+- Smartphone: 78.92M(61.94%)
+- Assessories: 21.14M(16.59%)
+- Tablets: 14.18M(11.13%)
+- Laptops: 13.18M(10.34%)
 
 Cellular contacts had a far higher success rate (15%) compared to telephone (5%), implying a clear preference for mobile communication.
 
